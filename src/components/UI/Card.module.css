@@ -1,0 +1,8 @@
+.parent {
+  height: calc(100vh - 56px);
+  background-color: rgb(185, 185, 185);
+}
+.card {
+  background-color: rgb(255, 255, 255);
+  width: 35rem;
+}

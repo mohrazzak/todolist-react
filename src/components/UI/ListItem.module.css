@@ -1,0 +1,20 @@
+.title {
+  margin-right: 10px;
+}
+
+.btns button {
+  width: 60px;
+}
+.btns {
+  display: flex;
+}
+@media (max-width: 500px) {
+  .btns {
+    display: block;
+  }
+  .btns button {
+    display: block;
+    width: 100%;
+    margin: 5px;
+  }
+}
